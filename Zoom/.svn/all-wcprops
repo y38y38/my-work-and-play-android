@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/28/trunk/Zoom
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/trunk/Zoom/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/28/trunk/Zoom/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/28/trunk/Zoom/AndroidManifest.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/28/trunk/Zoom/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/28/trunk/Zoom/.classpath
+END

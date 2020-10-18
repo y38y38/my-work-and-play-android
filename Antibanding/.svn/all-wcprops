@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/41/trunk/Antibanding
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/Antibanding/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/18/trunk/Antibanding/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/18/trunk/Antibanding/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/18/trunk/Antibanding/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/41/trunk/Antibanding/AndroidManifest.xml
+END

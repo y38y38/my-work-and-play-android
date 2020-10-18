@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/70/trunk/android/test/ActivityInstrumentationTestCase2/invokeMenuActionSync/Button
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/70/trunk/android/test/ActivityInstrumentationTestCase2/invokeMenuActionSync/Button/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/70/trunk/android/test/ActivityInstrumentationTestCase2/invokeMenuActionSync/Button/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/70/trunk/android/test/ActivityInstrumentationTestCase2/invokeMenuActionSync/Button/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/70/trunk/android/test/ActivityInstrumentationTestCase2/invokeMenuActionSync/Button/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/70/trunk/android/test/ActivityInstrumentationTestCase2/invokeMenuActionSync/Button/AndroidManifest.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/26/trunk/JpegQuality
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/26/trunk/JpegQuality/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/26/trunk/JpegQuality/AndroidManifest.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/26/trunk/JpegQuality/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/26/trunk/JpegQuality/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26/trunk/JpegQuality/proguard.cfg
+END

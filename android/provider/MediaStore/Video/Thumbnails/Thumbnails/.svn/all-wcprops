@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/53/trunk/android/provider/MediaStore/Video/Thumbnails/Thumbnails
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/53/trunk/android/provider/MediaStore/Video/Thumbnails/Thumbnails/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/53/trunk/android/provider/MediaStore/Video/Thumbnails/Thumbnails/AndroidManifest.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/53/trunk/android/provider/MediaStore/Video/Thumbnails/Thumbnails/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/53/trunk/android/provider/MediaStore/Video/Thumbnails/Thumbnails/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/53/trunk/android/provider/MediaStore/Video/Thumbnails/Thumbnails/proguard.cfg
+END

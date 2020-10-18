@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/85/trunk/android/media/MeidaPlayer/mp3play
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/85/trunk/android/media/MeidaPlayer/mp3play/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/85/trunk/android/media/MeidaPlayer/mp3play/AndroidManifest.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/85/trunk/android/media/MeidaPlayer/mp3play/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/85/trunk/android/media/MeidaPlayer/mp3play/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/85/trunk/android/media/MeidaPlayer/mp3play/proguard.cfg
+END

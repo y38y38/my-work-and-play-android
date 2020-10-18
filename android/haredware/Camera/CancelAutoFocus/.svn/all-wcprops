@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/trunk/android/haredware/Camera/CancelAutoFocus
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/36/trunk/android/haredware/Camera/CancelAutoFocus/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/36/trunk/android/haredware/Camera/CancelAutoFocus/AndroidManifest.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/android/haredware/Camera/CancelAutoFocus/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/36/trunk/android/haredware/Camera/CancelAutoFocus/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/36/trunk/android/haredware/Camera/CancelAutoFocus/proguard.cfg
+END

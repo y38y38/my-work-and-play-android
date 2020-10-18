@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/71/trunk/android/test/ActivityInstrumentationTestCase2/sendPointerSync/surface
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/71/trunk/android/test/ActivityInstrumentationTestCase2/sendPointerSync/surface/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/71/trunk/android/test/ActivityInstrumentationTestCase2/sendPointerSync/surface/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/71/trunk/android/test/ActivityInstrumentationTestCase2/sendPointerSync/surface/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/71/trunk/android/test/ActivityInstrumentationTestCase2/sendPointerSync/surface/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/71/trunk/android/test/ActivityInstrumentationTestCase2/sendPointerSync/surface/AndroidManifest.xml
+END

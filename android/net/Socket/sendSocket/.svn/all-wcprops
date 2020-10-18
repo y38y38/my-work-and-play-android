@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/91/trunk/android/net/Socket/sendSocket
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/91/trunk/android/net/Socket/sendSocket/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/91/trunk/android/net/Socket/sendSocket/AndroidManifest.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/91/trunk/android/net/Socket/sendSocket/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/91/trunk/android/net/Socket/sendSocket/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/91/trunk/android/net/Socket/sendSocket/proguard.cfg
+END

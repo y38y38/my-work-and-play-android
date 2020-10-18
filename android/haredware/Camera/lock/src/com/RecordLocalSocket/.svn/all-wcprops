@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/109/trunk/android/haredware/Camera/lock/src/com/RecordLocalSocket
+END
+LocalSocketLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/103/trunk/android/haredware/Camera/lock/src/com/RecordLocalSocket/LocalSocketLoop.java
+END
+MP4Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/109/trunk/android/haredware/Camera/lock/src/com/RecordLocalSocket/MP4Parser.java
+END
+LockActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/108/trunk/android/haredware/Camera/lock/src/com/RecordLocalSocket/LockActivity.java
+END
+MP4Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/109/trunk/android/haredware/Camera/lock/src/com/RecordLocalSocket/MP4Config.java
+END
+StsdBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/109/trunk/android/haredware/Camera/lock/src/com/RecordLocalSocket/StsdBox.java
+END

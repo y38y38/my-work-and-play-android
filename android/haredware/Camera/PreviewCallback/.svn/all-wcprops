@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/android/haredware/Camera/PreviewCallback
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/43/trunk/android/haredware/Camera/PreviewCallback/AndroidManifest.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/43/trunk/android/haredware/Camera/PreviewCallback/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/43/trunk/android/haredware/Camera/PreviewCallback/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/43/trunk/android/haredware/Camera/PreviewCallback/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/43/trunk/android/haredware/Camera/PreviewCallback/.project
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/15/trunk/FoucsDetail
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12/trunk/FoucsDetail/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/12/trunk/FoucsDetail/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/FoucsDetail/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12/trunk/FoucsDetail/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/FoucsDetail/AndroidManifest.xml
+END

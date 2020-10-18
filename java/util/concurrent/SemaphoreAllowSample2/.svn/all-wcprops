@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/67/trunk/java/util/concurrent/SemaphoreAllowSample2
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/67/trunk/java/util/concurrent/SemaphoreAllowSample2/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/67/trunk/java/util/concurrent/SemaphoreAllowSample2/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/67/trunk/java/util/concurrent/SemaphoreAllowSample2/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/67/trunk/java/util/concurrent/SemaphoreAllowSample2/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/67/trunk/java/util/concurrent/SemaphoreAllowSample2/AndroidManifest.xml
+END

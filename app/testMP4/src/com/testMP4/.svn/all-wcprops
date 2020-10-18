@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/105/trunk/app/testMP4/src/com/testMP4
+END
+MP4Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/105/trunk/app/testMP4/src/com/testMP4/MP4Config.java
+END
+StsdBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/105/trunk/app/testMP4/src/com/testMP4/StsdBox.java
+END
+MP4Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/105/trunk/app/testMP4/src/com/testMP4/MP4Parser.java
+END
+TestMP4Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/105/trunk/app/testMP4/src/com/testMP4/TestMP4Activity.java
+END

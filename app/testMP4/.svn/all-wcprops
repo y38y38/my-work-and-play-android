@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/105/trunk/app/testMP4
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/105/trunk/app/testMP4/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/105/trunk/app/testMP4/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/105/trunk/app/testMP4/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/105/trunk/app/testMP4/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/105/trunk/app/testMP4/AndroidManifest.xml
+END

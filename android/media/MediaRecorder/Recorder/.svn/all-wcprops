@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/55/trunk/android/media/MediaRecorder/Recorder
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/54/trunk/android/media/MediaRecorder/Recorder/AndroidManifest.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/54/trunk/android/media/MediaRecorder/Recorder/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/54/trunk/android/media/MediaRecorder/Recorder/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/54/trunk/android/media/MediaRecorder/Recorder/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/54/trunk/android/media/MediaRecorder/Recorder/.project
+END

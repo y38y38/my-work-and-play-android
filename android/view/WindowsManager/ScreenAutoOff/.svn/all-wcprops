@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/110/trunk/android/view/WindowsManager/ScreenAutoOff
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/110/trunk/android/view/WindowsManager/ScreenAutoOff/.project
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/110/trunk/android/view/WindowsManager/ScreenAutoOff/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/110/trunk/android/view/WindowsManager/ScreenAutoOff/AndroidManifest.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/110/trunk/android/view/WindowsManager/ScreenAutoOff/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/110/trunk/android/view/WindowsManager/ScreenAutoOff/project.properties
+END

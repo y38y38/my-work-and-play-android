@@ -1,0 +1,52 @@
+10
+
+dir
+110
+http://my-work-and-play-android.googlecode.com/svn/trunk/android/haredware/Camera
+http://my-work-and-play-android.googlecode.com/svn
+
+
+
+2012-07-09T15:17:32.301335Z
+109
+y38y38@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+537f935e-516b-1b86-98de-bd934649554d
+
+addCallbackBuffer
+dir
+
+OneShotPreview
+dir
+
+DisplayOrientation
+dir
+
+Parameters
+dir
+
+CameraInfo
+dir
+
+lock
+dir
+
+PreviewCallback
+dir
+
+CancelAutoFocus
+dir
+

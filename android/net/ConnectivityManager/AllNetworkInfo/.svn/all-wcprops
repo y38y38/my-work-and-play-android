@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/79/trunk/android/net/ConnectivityManager/AllNetworkInfo
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/79/trunk/android/net/ConnectivityManager/AllNetworkInfo/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/79/trunk/android/net/ConnectivityManager/AllNetworkInfo/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/79/trunk/android/net/ConnectivityManager/AllNetworkInfo/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/79/trunk/android/net/ConnectivityManager/AllNetworkInfo/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/79/trunk/android/net/ConnectivityManager/AllNetworkInfo/AndroidManifest.xml
+END
